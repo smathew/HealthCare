@@ -1,0 +1,140 @@
+<div id="container">
+	<div id="header">
+    <%= link_to image_tag("header.jpg", :alt=>""), root_path %>
+    </div>
+    
+    <div id="nav">
+    		<ul class="clearfix" id="menu">
+			<li>
+				<a href="#">Online Services</a>
+				<ul>
+					<li><%= link_to "&raquo; Online Banking", onlinebank_path %></li>
+					<li><%= link_to "&raquo; Online Bill Pay", onlinebillpay_path %></li>
+					<li><%= link_to "&raquo; eStatements", estatements_path %></li>
+					<li><%= link_to "&raquo; Visa Prepaid Cards", "https://gprprepaid.pscufs.com/index.cfm?clientkey=67429%20HSFCU", :rel=>"confirm external" %></li>
+					<li><%= link_to "&raquo; Visa Gift Cards", "https://mygiftcardaccount.pscufs.com/index.cfm?clientkey=67429%20HSFCU", :rel=>"confirm external" %></li>
+					<li><%= link_to "&raquo; Loan Applications", loanapp_path %></li>
+                    <li><%= link_to "&raquo; Calculators", calculators_path %></li>
+                    <li><%= link_to "&raquo; Online Investments", "http://members.cunamutual.com/H2/Investments.aspx?SITE=04504447", :rel=>"confirm external" %></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Loans</a>
+				<ul>
+					<li><%= link_to "&raquo; New/Used Vehicles", newused_path %></li>
+					<li><%= link_to "&raquo; Visa Credit Card", visa_path %></li>
+					<li><%= link_to "&raquo; Signature Loans", signature_path %></li>
+					<li><%= link_to "&raquo; Home Equity Loans", heloc_path %></li>
+					<li><%= link_to "&raquo; Share Secured", sharesec_path %></li>
+                    <li><%= link_to "&raquo; Mortgage Loans", mortgage_path %></li>
+                    <li><%= link_to "&raquo; Recreation Vehicles", recreation_path %></li>
+                    <li><%= link_to "&raquo; Calculators", calculators_path %></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Deposits</a>
+				<ul>
+					<li><%= link_to "&raquo; Share Draft Checking", share_path %></li>
+					<li><%= link_to "&raquo; Second Chance Checking", secondchance_path %></li>
+					<li><%= link_to "&raquo; Regular Share", regshare_path %></li>
+                    <li><%= link_to "&raquo; Money Market", moneymarket_path %></li>
+                    <li><%= link_to "&raquo; Share Certificates", certdep_path %></li>
+                    <li><%= link_to "&raquo; IRAs", ira_path %></li>
+                    <li><%= link_to "&raquo; Club Accounts", clubaccts_path %></li>
+                    <li><%= link_to "&raquo; Visa Debit Cards", visadebit_path %></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Rates</a>
+				<ul>
+					<li><%= link_to "&raquo; Loan Rates", loanrates_path %></li>
+					<li><%= link_to "&raquo; Deposit Rates", depositrates_path %></li>
+					<li><%= link_to "&raquo; Fee Schedule", fees_path %></li>
+				</ul>
+			</li>
+			<li>
+				<a href="#">Locations &amp; Hours</a>
+				<ul>
+					<li><%= link_to "&raquo; Branches", locations_path %></li>
+					<li><%= link_to "&raquo; Shared Branches", sharedbranch_path %></li>
+                    <li><%= link_to "&raquo; ATM Locations", atmlocations_path %></li>
+					<li><%= link_to "&raquo; CU 24/HERE ATMs", cu24_path %></li>
+				</ul>
+			</li>
+			<li><a href="#">About Us</a>
+				<ul>
+					<li><%= link_to "&raquo; History", history_path %></li>
+					<li><%= link_to "&raquo; Membership Eligibility", membership_path %></li>
+                    <li><%= link_to "&raquo; Privacy Policy", privacy_path %></li>
+                    <li><%= link_to "&raquo; NCUA Insurance", ncua_path %></li>
+                    <li><%= link_to "&raquo; Security Statement", security_path %></li>
+                    <li><%= link_to "&raquo; The CU Difference", difference_path %></li>
+                    <li><%= link_to "&raquo; Billing Rights", billingrights_path %></li>
+                    <li><%= link_to "&raquo; Contact Us", new_contact_path %></li>
+                </ul>
+			</li>
+			<li>
+				<a href="#">Partners</a>
+				<ul>
+					<li><%= link_to "&raquo; Balance - Financial Counseling", "http://www.balancepro.net/partners/hsfcu/", :rel=>"confirm external" %></li>
+					<li><%= link_to "&raquo; Investments", "http://members.cunamutual.com/H2/Investments.aspx?SITE=04504447", :rel=>"confirm external" %></li>
+					<li><%= link_to "&raquo; Get an Auto/Home Insurance Quote", "http://www.membersautohome.com/default.aspx?contract=04504447&amp;ICU=BBB4&amp;utm_source=04504447&amp;utm_medium=Link&amp;utm_campaign=BBB4", :rel=>"confirm external" %></li>
+					<li><%= link_to "&raquo; Life Insurance", "http://members.cunamutual.com/H2/Insurance.aspx?SITE=04504447", :rel=>"confirm external" %></li>
+                    <li><%= link_to "&raquo; Enterprise Car Sales", "http://www.enterprisecarsales.com", :rel=>"confirm external" %></li>
+                    <li><%= link_to "&raquo; Order Checks", "https://reorder.libertysite.com/login.asp", :rel=>"confirm external" %></li>
+                    <li><a href="http://www.cuservicecenter.com/" rel="confirm external">&raquo; Shared Branches</a></li>
+                    <li><%= link_to "&raquo; CU24", "http://www.cu24.com/ATMLocator/index.aspx", :rel=>"confirm external" %></li>
+                    <li><%= link_to "&raquo; Freedom Pay", "https://www.freedompay.com/SignUp/SelectOrigination.aspx", :rel=>"confirm external" %></li>
+                    <li><%= link_to "&raquo; SMARTMOVE", "http://www.smartmove.com/hsfcu", :rel=>"confirm external" %></li>
+                    
+				</ul>
+			</li>
+		</ul>
+    </div>
+    
+<div id="sidebar" class="clearfix">
+		<div id="onlinebanking" class="clearfix">
+        <table cellpadding="0" cellspacing="0">
+        	<tr>
+            	<td class="header" colspan="2">Online Banking &amp; Bill Pay Access</td>
+            </tr>
+            <tr class="dark">
+            	<td><%= link_to image_tag("sign_off.gif", :width=>110, :height=>34, :id=>"SignIn", :alt=>"Sign-in"), new_hb_login_path, :onmouseout=>"MM_swapImgRestore()", :onmouseover=>"MM_swapImage('SignIn','','images/sign_on.gif',1)" %></td>
+                <td><%= link_to "Click Here to Enroll", new_internetbranchsignup_path %></td>
+            </tr>
+        </table>
+        </div>
+        
+    <%= link_to image_tag("apply_off.gif", :alt=>"Apply Now", :id=>"Apply"), loanapp_path, :onmouseout=>"MM_swapImgRestore()", :onmouseover=>"MM_swapImage('Apply Now','','images/apply_on.gif',1)" %>
+    
+    
+    <div id="iwantto">
+    <p class="heading">I want to:</p>
+    	<ul>
+        	<li><%= link_to "Apply for a Loan", loanapp_path %></li>
+            <li><%= link_to "Get Financial Counseling", "http://www.balancepro.net/partners/hsfcu/", :rel=>"confirm external" %></li>
+            <li><%= link_to "Learn About Membership", membership_path %></li>
+            <li><%= link_to "Invest and Insure", "http://members.cunamutual.com/H2/Investments.aspx?SITE=04504447", :rel=>"confirm external" %></li>
+            <li><%= link_to "Find a Branch", locations_path %></li>
+            <li><%= link_to "View HSFCU Rates", depositrates_path %></li>
+            <li><%= link_to "View My Credit Card", creditcard_path %></li>
+            <li><%= link_to "Opt-in for Overdraft Protection on my ATM or debit card", odp_path %></li>
+        </ul>
+    </div>
+    
+    <p class="center"><%= link_to image_tag("balance_125x150.gif", :alt=>""), "http://balancepro.net/partners/hsfcu/", :rel=>"confirm external" %></p>
+    <p class="center"><%= link_to image_tag("ncua.jpg", :alt=>""), "http://www.ncua.gov", :rel=>"confirm external" %><br /><span class="disclaimer">Your savings federally insured<br />
+to at least $250,000 and backed by<br />
+the full faith and credit of the<br />
+United States Government. </span></p>
+
+<table cellpadding="5" cellspacing="5" class="center">
+	<tr>
+    	<td><%= link_to image_tag("visaverified.jpg", :alt=>""), "https://secure2.arcot.com/vpas/s582110v/i18n/en_US/index.html", :rel=>"confirm external" %></td>
+        <td><%= image_tag "ehl.jpg", :alt=>"" %></td>
+    </tr>
+    <tr>
+    	<td colspan="2"><span class="disclaimer">Site Designed and Maintained by:</span><br /><%= link_to image_tag("shareone_logo.jpg", :alt=>""), "http://www.shareone.com", :rel=>"confirm external" %></td>
+    </tr>
+</table>
+    </div>

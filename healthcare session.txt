@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="9">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="6620" startPos="315" endPos="315" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\layouts\_footer.html.erb" />
+            <File firstVisibleLine="17" xOffset="0" scrollWidth="6620" startPos="1351" endPos="1351" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\layouts\_header.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="4170" startPos="243" endPos="243" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\layouts\application.html.erb" />
+            <File firstVisibleLine="24" xOffset="0" scrollWidth="6620" startPos="2455" endPos="2462" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\home\index.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="6620" startPos="427" endPos="427" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\internetbranchsignups\new.html.erb" />
+            <File firstVisibleLine="129" xOffset="0" scrollWidth="4170" startPos="6627" endPos="6685" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Excel\app\views\loanapps\new.html.erb" />
+            <File firstVisibleLine="50" xOffset="0" scrollWidth="6620" startPos="3979" endPos="3979" selMode="0" lang="Ruby" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\config\routes.rb" />
+            <File firstVisibleLine="33" xOffset="0" scrollWidth="6620" startPos="232" endPos="232" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\home\visa.html.erb" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="6620" startPos="1341" endPos="1341" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\home\loans.html.erb" />
+            <File firstVisibleLine="6" xOffset="0" scrollWidth="6620" startPos="2454" endPos="2454" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\home\sitemap.html.erb" />
+            <File firstVisibleLine="13" xOffset="0" scrollWidth="6620" startPos="4274" endPos="4274" selMode="0" lang="Normal Text" encoding="-1" filename="C:\Rails Projects\websites\Healthcare\app\views\home\calculators.html.erb" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

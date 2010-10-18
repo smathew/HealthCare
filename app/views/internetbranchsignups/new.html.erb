@@ -1,0 +1,14 @@
+<div id="content" class="clearfix">
+<h2>Use of Electronic Services:</h2>
+	<% form_for(@internetbranchsignup) do |f| %>
+		<%= f.error_messages %>                            
+        <textarea rows="25" cols="70" tabindex="1"  wrap="hard"><%= render "layouts/hbsignup.inc" %></textarea>
+
+							<p><%= f.radio_button("agree", "no") %>No, I do not agree to these terms and conditions</p>
+							<p><%= f.radio_button("agree", "yes") %>Yes, I agree to these terms and conditions</p>
+							
+							<p class="center"><%= f.submit 'Sign up' %>
+							<%= f.submit 'Cancel', :onclick=>"javascript:history.back()" %></p>
+							<% end %>
+							
+</div>

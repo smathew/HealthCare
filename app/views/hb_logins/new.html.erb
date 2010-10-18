@@ -1,0 +1,39 @@
+<div id="content" class="clearfix">
+<h2>Healthcare Systems Federal Credit Union Online Banking</h2>
+<p>Always begin the log-in process to HSFCU's Online Banking from our official Web site at www.hsfcu1.org. We recommend that you do not make this page a favorite or a bookmark, and never click on an e-mail to access this Online Banking log-in page. </p>
+<p>REMINDER: HSFCU will never ask you for personal account information in an e-mail.</p>
+
+<% form_for(@hb_login) do |f| %>
+  <%= f.error_messages %>
+	<table class="center login">
+		<tr>
+			<th colspan="2">Internet Branch Login</th>
+		</tr>
+		<tr>
+			<td class="right"><label for="account">Account #:</label></td><td class="left"><%= f.text_field :account_number, :size => 10 %></td>
+		</tr>
+		<tr>
+			<td class="right"><label for="pin">PIN:</label></td><td class="left"><%= f.text_field :pin, :size => 12 %></td>
+		</tr>
+		<tr>
+			<td colspan="2"><%= f.submit 'LOGIN' %></td>
+		</tr>
+	</table>
+<% end %>
+
+<h2>Sign Up For HSFCU’s eStatements! </h2>
+<p>Still waiting for paper account statements to arrive by regular mail? eStatements are a better option. </p>
+ 
+<p>Our eStatements are paperless account statements that are displayed online within our secure Online Banking service. You get your account information much sooner, and more:</p>
+<ul>
+	<li>eStatements are FREE!</li>
+    <li>eStatements eliminate clutter – They can be saved onto your computer for easy reference when needed.</li>
+    <li>eStatements are less vulnerable to identity thieves – They won’t sit in your mailbox when you’re working, running errands or on vacation.</li>
+    <li>eStatements help the environment – They conserve water, electricity and trees, and reduce environmental pollution from the chemicals used in paper manufacturing.</li>
+</ul>
+
+ 
+<p>Sign up for eStatements today, and do something good for yourself and the environment! To get started, use the Online Banking link above.</p>
+<p>If you are new to Online Banking, go to the &quot;Online Banking&quot; page under the &quot;Online Services&quot; menu and use the &quot;New Users Click Here&quot; link to agree to the &quot;Electronic Services Agreement.&quot;</p>
+
+</div>

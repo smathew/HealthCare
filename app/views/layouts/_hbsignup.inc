@@ -1,0 +1,49 @@
+
+Use of Electronic Services:
+---------------------------
+This Electronic Services Agreement ("Agreement") between you and Healthcare Systems FCU states the terms and conditions of your use of Healthcare Systems FCU's Electronic Services. Electronic Services means any and all of Healthcare Systems FCU's computer or telephonic services or systems including, but not limited to, services and information accessible through Healthcare Systems FCU's Web Page and any other computer or telephonic information system provided to you by Healthcare Systems FCU, whether established by Healthcare Systems FCU directly or through other providers. You also agree to abide by any rules, procedures, standards, requirements or conditions established by Healthcare Systems FCU regarding use of its Electronic Services or electronic communications facilities that Healthcare Systems FCU makes available. In offering its Electronic Services, Healthcare Systems FCU is making available to you interactive computer services and/or automated telephonic services or systems that allow you: 
+
+ (A) to access your accounts with Healthcare Systems FCU for the purpose of: 
+  (i) making inquiries; 
+  (ii) transferring funds from one account to another; and 
+  (iii) to make loan payments on your loans with Healthcare Systems FCU; 
+ (B) to arrange for Healthcare Systems FCU to pay your monthly bills to third party vendors directly from your accounts; and 
+ (C) to obtain copies of your account statements and to obtain copies of checks that you have written; and 
+ (D) to apply for a loan. 
+	
+Lastly, Healthcare Systems FCU will provide electronic links to various service providers for your convenience. These services are provided to you via computer or telephonic transmission for use on compatible personal, home or small business computers, including Internet appliances with modems, terminals or network computers that can connect to a telecommunications network. You agree to use Healthcare Systems FCU's Electronic Services and any additional services offered by Healthcare Systems FCU in the future only in accordance with this Agreement, Healthcare Systems FCU may amend or terminate this Agreement upon notice from Healthcare Systems FCU. Nothing in this Agreement should be construed as a solicitation or recommendation for you to buy or sell anything. 
+
+Limited Warranty
+----------------
+THERE IS NO WARRANTY OF MERCHANTABILITY, NO WARRANTY OF FITNESS FOR A PARTICULAR USE AND NO WARRANTY OF NON-INFRINGEMENT. THERE IS NO OTHER WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. 
+
+Limitations of Liability
+------------------------
+IN NO EVENT WILL Healthcare Systems FCU BE LIABLE TO YOU OR ANYONE ELSE FOR ANY CONSEQUENTIAL, INCIDENTAL, SPECIAL OR INDIRECT DAMAGES (INCLUDING BUT NOT LIMITED TO LOST PROFITS, TRADING LOSSES AND DAMAGES) THAT RESULT FROM INCONVENIENCE, DELAY OR LOSS OF THE USE OF THE ELECTRONIC SERVICES, EVEN IF Healthcare Systems FCU HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES OR LOSSES. YOU AGREE THAT THE LIABILITY OF Healthcare Systems FCU ARISING OUT OF ANY KIND OF LEGAL CLAIM (WHETHER IN CONTRACT, TORT OR OTHERWISE) IN ANY WAY CONNECTED WITH THE ELECTRONIC SERVICES WILL NOT EXCEED THE AMOUNT ORIGINALLY PAID FOR THE ELECTRONIC SERVICE. 
+
+Neither shall Healthcare Systems FCU be liable for any loss resulting from a cause over which such entity does not have direct control, including but not limited to failure of electronic or mechanical equipment or communication lines; telephone or other interconnect problems; bugs, errors, configuration problems or incompatibility of computer hardware or software; failure or unavailability of Internet access; problems with Internet service providers or other equipment or services relating to your computer; problems with intermediate computer or communications networks or facilities; problems with data transmission facilities or your telephone or telephone service; or unauthorized access, theft, operator errors, severe weather, earthquakes or labor disputes. Healthcare Systems FCU is not responsible for any damage to your computer, software, modem, telephone, or other property resulting from your use or the Electronic Services. 
+
+SOME JURISDICTIONS DO NOT ALLOW LIMITATIONS ON HOW LONG IMPLIED WARRANTIES LAST, THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES OR THE EXCLUSION OF CERTAIN IMPLIED WARRANTIES, SO THESE DISCLAIMERS AND LIMITATIONS MAY NOT APPLY TO YOU. THIS WARRANTY GIVES YOU SPECIFIC LEGAL RIGHTS AND YOU MAY ALSO HAVE OTHER RIGHTS THAT VARY FROM JURISDICTION TO JURISDICTION. 
+
+No Legal or Tax Advice
+----------------------
+You acknowledge that neither the Electronic Services nor any of the information is intended as tax or legal advice. Although the Electronic Services provide access to numerous recommendations about how to invest and what to buy, none of these recommendations are developed or endorsed by Healthcare Systems FCU. Access, Passwords and Security You will be responsible for the confidentiality and use of your access number(s), password(s) and account number(s). You will be responsible for all orders and transactions entered through and under your access number(s), password(s) and account number(s), and any orders so received by Healthcare Systems FCU will be deemed to have been received from you. All orders and transactions shall be deemed to be made within a reasonable time after received by Healthcare Systems FCU and in the form received. You agree immediately to notify Healthcare Systems FCU if you become aware of: a. Any loss or theft of your access number(s), password(s) and account number(s); or b. Any unauthorized use of any of your access number(s), password(s) and account number(s), or of the Electronic Services or any information; or c. Any failure by you to receive a message that an order or transaction initiated by you through the Electronic Services has been received and/or executed through the Electronic Services; or d. Any receipt of confirmation of an order that you did not place, or any similarly inaccurate of conflicting report or information. 
+
+Data Transmission
+-----------------
+You acknowledge that data, including e-mail, electronic communications and personal financial data, may be accessed by unauthorized third parties when communicated between you and Healthcare Systems FCU and other providers of information through Healthcare Systems FCU's Web Page, using the Internet, other network communications facilities, telephone or any other electronic means. You agree to use software produced by third parties, including, but not limited to, "browser" software that supports a date security protocol compatible with the protocol used by Healthcare Systems FCU. Until notified otherwise by Healthcare Systems FCU, you agree to use software that supports the Secure Socket Layer (SSL) protocol or other protocols accepted by Healthcare Systems FCU and follow Healthcare Systems FCU's log-on procedures for Electronic Services that support such protocols. You acknowledge that Healthcare Systems FCU is not responsible for notifying you of any upgrades, fixes or enhancements to any such software or for any compromise of data transmitted across computer networks or telecommunications facilities, including, but not limited to, the Internet.Indemnification You agree to defend, indemnify and hold Healthcare Systems FCU harmless from and against any and all claims, losses, liability costs and expenses (including but not limited to attorneys' fees) arising from your violation to this Agreement, state or federal securities laws or regulations, or any third party's rights, including but not limited to infringement of any copyright, violation of any proprietary right and invasion of any privacy rights. This obligation will survive the termination of this Agreement. Our Ability to Terminate Electronic Services Healthcare Systems FCU reserves the right to terminate your access to the Electronic Services or any portion of them at its sole discretion, without notice and without limitation, for any reason whatsoever, including but not limited to the unauthorized use of your access number(s), password(s) and account number(s) and breach of this Agreement. In the event of a termination by Healthcare Systems FCU, Healthcare Systems FCU will refund the pro rata portion of any fee that may have been paid by you for the portion of the Electronic Services not furnished to you as of the date of such termination. 
+
+Electronic Communications
+-------------------------
+You will not use any electronic communication feature of the Electronic Services for any purpose that is unlawful, abusive, harassing, libelous, defamatory, obscene or threatening. 
+
+General
+-------
+You acknowledge that, in providing you with the Electronic Services, Healthcare Systems FCU has relied upon your agreement to be bound by the terms of this Agreement and any user or license agreement(s) related to or accompanying Electronic Services-related software. You further acknowledge that you have read, understand and agreed to be bound by the terms of (i) the user license agreement of any Electronic Services-related software, and (ii) any other agreement with Healthcare Systems FCU that applies to your account(s), all as currently in effect and amended from time to time. This Agreement shall be governed by the law (but not the choice of law doctrine) of the state of Virginia, regardless of whether you reside or transact business with Healthcare Systems FCU in Virginia or elsewhere. 
+
+Modifications
+-------------
+This Agreement may be modified by Healthcare Systems FCU upon written notice to you provided, however, that if Healthcare Systems FCU sends you written notice, via electronic communication or otherwise, of a modification, you confirm your acceptance of the modification by not closing and/or by continuing to use your account.
+		
+
+

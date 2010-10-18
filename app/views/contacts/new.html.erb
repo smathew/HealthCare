@@ -1,0 +1,33 @@
+<div id="content" class="clearfix">
+	<% form_for(@contact) do |f| %>
+	  <%= f.error_messages %>  
+		<h2>Contact Us</h2>
+		<p class="header">Healthcare Systems Federal Credit Union</p>
+		<p class="indent">3300 Gallows Road<br />
+		Falls Church, VA  22042<br />
+		Main: 703-776-2700<br />
+		Toll-Free: 800-250-9676<br />
+		Touch Tone Teller: 703-776-2498 <br />
+		Loan Department: 703-776-7960 </p>
+
+		<p class="header">Contact HSFCU</p>
+		<table id="contact">
+		<tr>
+			<th colspan="2">Questions or Comments?</th>
+		</tr>
+		  <tr>
+			<td><label for="name">Name:</label></td><td><%= f.text_field :name, :size => 25 %></td>
+		  </tr>
+		  <tr>
+			<td><label for="email">Email:</label></td><td><%= f.text_field :email, :size => 25 %></td>
+		  </tr>
+		  <tr>
+			<td><label for="comments">Comments:</label></td><td><%= f.text_area :comments, :rows=>5, :cols=> 45 %></td>
+		  </tr>
+		  <tr>
+			<td colspan="2" class="center"><%= f.submit 'Send Now', :class=>"submit" %></td>
+		  </tr>		  
+		</table>
+	<% end %>
+	<p class="indent bold">LOST OR STOLEN VISA CARD CALL 1-800-449-7728</p>
+</div>

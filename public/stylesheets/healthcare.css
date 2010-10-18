@@ -1,0 +1,651 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*GLOBAL CLASSES*/
+body {
+	background-color: #ccc;
+	margin: 0;
+	padding: 0;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: .8em;
+	color: #003366;
+	background-image:url(../images/background.jpg);
+	background-repeat: repeat-y;
+	background-position:center;
+}
+
+img {
+	border: 0 none;
+}
+
+.fright {
+	float: right;
+}
+
+.fleft {
+	float: left;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.center{
+	text-align: center;
+	margin: 0 auto;
+}
+
+.disclaimer{
+	font-size: 10px;
+	color: #000;
+}
+
+.image{
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+.indent{
+	margin-left: 35px;
+}
+
+.italic{
+	font-style:italic;
+}
+
+
+
+table.center {margin-left:auto; margin-right:auto; text-align: center;}
+
+#container{
+	width: 920px;
+	margin: 0 auto;
+	padding: 0;
+}
+
+#header{
+	padding: 0;
+	margin: 0;	
+}
+
+#nav{
+	top: 122px;
+	width: 920px;
+	background-image: url(../images/menu_bg.jpg);
+	background-repeat: repeat-x;
+	margin: 0;
+	padding: 0;
+	height: 38px;
+	border-top: 1px solid #003366;
+	border-bottom: 1px solid #003366;
+}
+
+#sidebar {
+	width: 250px;
+	margin: 0 15px;
+	float: left;
+	overflow: hidden;
+	padding: 15px 0px;
+}
+
+#sidebar p{
+	margin-top: 10px;
+	line-height: 12px;
+	margin-bottom: 10px;
+}
+
+#onlinebanking{
+	width: 248px;
+	background-color: #d7e7f7;
+	border: 1px solid #003366;
+	overflow: hidden;
+	margin: 0 0 15px 0;
+}
+
+#onlinebanking table{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+ 
+#onlinebanking table tr.dark{
+	background-color: #003366;
+}
+
+#onlinebanking table td{
+	text-align: center;
+	padding: 14px 0px 18px 0px;
+}
+
+#onlinebanking a{
+	color: #fff;
+	text-decoration: underline;
+}
+
+#onlinebanking a:hover{
+	color: #ccc;
+}
+
+#onlinebanking td.header{
+	color: #003366;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 12px;
+	padding-bottom: 4px;
+}
+
+#iwantto{
+	border: 1px solid #003366;
+	background-color: #d7e7f7;
+	margin: 10px 0 15px 0;
+	width: 228px;
+	height: auto;
+	padding: 10px 10px 30px 10px;
+}
+
+#iwantto a{
+	color: #003366;
+	text-decoration: underline;
+}
+
+#iwantto a:hover{
+	color: #090;
+	text-decoration: none;
+}
+
+#iwantto ul li{
+	color: #090;
+	line-height: 22px;
+	font-size: 12px;
+}
+
+
+#iwantto ul{
+	list-style-type: square;
+	display: block;
+	margin: 0 0 0 45px;
+	padding: 0;
+}
+
+.heading{
+		color: #003366;
+	font-size: 14px;
+	font-weight: bold;
+	padding-left: 10px;
+
+}
+
+#footer {
+	margin: 0;
+	background-color: #003366;
+	height: 130px;
+	width: 100%;
+	clear: both;
+}
+
+#footer2 {
+	margin: 15px;
+	width: 15px;
+	width: 890px;
+	color: #fff;
+
+}
+
+#footer2 a{
+	color: #fff;
+	text-decoration: none;
+}
+
+#footer2 a:hover{
+	color: #090;
+	text-decoration: underline;
+}
+
+#footer2 ul {
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	margin-bottom: 20px;
+	margin-top: 12px;
+}
+
+#footer2 ul li {
+	padding-right: 5px;
+	display: block;
+	float: left;
+	
+}
+
+#footer2 p{
+	text-align: right;
+	line-spacing: 25px;
+	color: #fff;
+
+}
+
+#footer2 img{
+	float: left;
+	margin-top: 20px;
+}
+
+#footleft{
+	float: left;
+	display: block;
+	width: 200px;
+	margin: 0;
+	padding: 0;
+}
+
+#footright{
+	float: left;
+	display: block;
+	width: 688px;
+	margin: 0;
+	padding: 0;
+}
+
+#content{
+	border-left: 2px solid #090;
+	position: relative;
+	float: left;
+	width: 606px;
+	min-height:950px;
+	height:auto !important;
+	height:950px;
+
+
+	margin: 0;
+	padding: 15px;
+	overflow: visible;
+	
+}
+
+#content .welcome{
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+
+#content table.quicklinks{
+	background-color: #d7e7f7;
+	padding: 0;
+	margin: 35px 0;
+	float: left;
+	border: 0;
+	border-collapse:collapse;
+}
+
+#content table.quicklinks th{
+	font-weight: bold;
+	font-size: 14px;
+	border-bottom: 2px solid #fff;
+	text-align: left;
+	padding: 3px;
+}
+
+#content table.quicklinks td{
+	padding: 2px 15px 2px 5px;
+	width: auto;
+	vertical-align: top;
+
+}
+
+#content table.quicklinks td.first{
+	padding-top: 8px;
+}
+
+#content table.quicklinks td.last{
+	padding-bottom: 8px;
+}
+
+#content table.resources{
+	width: 285px;
+	margin-left: 20px;
+	
+}
+#content table a{
+	color: #003366;
+	text-decoration: none;
+}
+#content table a:hover{
+	color: #003366;
+}
+
+#content a{
+	color: #090;
+	text-decoration: none;
+}
+
+#content a:hover{
+	text-decoration: underline;
+	color: #090;
+}
+
+#content .videolink{
+	background-image: url(../images/videolink.png);
+	background-repeat: no-repeat;
+	background-position: right;
+	padding-right: 15px;
+	width: 100px;
+}
+
+#content h2{
+	font-weight: bold;
+	font-size: 16px;
+
+}
+
+#content p.header{
+	font-weight: bold;
+	margin-top: 35px;
+}
+
+#content .small{
+	font-size: 12px;
+	font-weight: normal;
+}
+
+#content h2.space{
+	margin-top: 35px;
+}
+
+#content .disclaimer{
+	color: #003366;
+}
+
+#content table.login{
+	width: 320px;
+	background-color: #d7e7f7;
+	border-collapse:collapse;
+}
+
+#content table.login th{
+	background-color: #003366;
+	color: #fff;
+	padding: 3px 10px 3px 10px;
+	font-weight: bold;
+	text-transform:uppercase;
+	
+}
+#content table.login td{
+	padding: 5px;
+}
+#content table.login td.left{
+	text-align: left;
+
+
+}
+#content table.login td.right{
+	float: right;
+	padding-right: 5px;
+	margin-top: 5px;
+	color:#000;
+	font-weight: bold;
+
+
+}
+
+
+
+ul.loans li{
+	line-height: 24px;
+	vertical-align: top;
+	font-weight: bold;
+}
+
+
+.locations table{
+	width: 100%;
+}
+
+.locations .loc{
+	font-weight: bold;
+	display: block;
+	width: 100%;
+	border-top: 2px solid #285284;
+	padding-top: 5px;
+	margin-top: 20px;
+}
+
+.locations table.locs td{
+	padding: 5px;
+	vertical-align: top;
+}
+
+.locations table.locs td.indent1{
+	padding-left: 35px;
+}
+
+table#touchtone{
+	border-width: 1px;
+	border-spacing: 0px;
+	border-style: groove;
+	border-color: #285284;
+	border-collapse: separate;
+}
+
+table#touchtone td.first{
+	width: 70px;
+	text-align: center;
+	background-color: #d7e7f7;
+}
+
+table#touchtone td{
+	border-width: 1px;
+	padding: 5px;
+	border-style: inset;
+	border-color: #285284;
+}
+
+table.visa{
+	background-color: #d7e7f7;
+	width: 450px;
+	border-collapse: collapse;
+	border: 1px solid #003366;
+	margin-top: 25px;
+}
+table.visa th{
+	background-color: #003366;
+	color: #fff;
+	font-weight: bold;
+	text-align: left;
+	padding: 10px 10px 10px 15px;
+	font-size: 1.2em;
+	
+
+}
+table.visa td{
+	padding: 5px 5px 5px 15px;
+}
+
+.green{
+	color: #090;
+}
+
+ul.loanapp {
+	width: 600px;
+	list-style-type: disc;
+
+}
+
+ul.loanapp li{
+	width: 275px;
+	float: left;
+	padding: 5px;
+}
+
+.clear{
+	clear: both;
+	margin-top: 30px;
+}
+
+
+
+
+
+#formerrors {
+	border: 1px solid #ff0000;
+	background-color: #fafbd1;
+	padding: 1em;
+	margin-bottom: 25px;
+	width: 532px;
+}
+
+#formerrors strong {
+	color: #ff0000;
+}
+
+#formerrors ul {
+	list-style-type: none;
+}
+
+
+
+table#contact {
+	width: 532px;
+	background-color: #d7e7f7;
+	border: 2px solid #003366;
+	border-collapse: collapse;
+}
+
+table#contact td{
+	padding: 8px;
+}
+
+table#contact th{
+	color: #fff;
+	font-size: 18px;
+	background-image:url(../images/contact_hed.jpg);
+	background-repeat: no-repeat;
+	background-position: none;
+	width: 532px;
+	height: 113px;
+	line-height: 113px;
+	text-align: left;
+	padding: 0px 10px 10px 20px;
+}
+
+#rates table{
+	width: 100%;
+	border: 2px solid #003366;
+	border-collapse: collapse;
+	text-align: center;
+	font-size: .9em;
+	margin-bottom: 20px;
+}
+
+#rates table th{
+	background-color: #003366;
+	color: #fff;
+	padding: 10px;
+	text-transform: uppercase;
+	font-size: 1.3em;
+
+}
+#rates table td{
+	border: 2px solid #003366;
+	padding: 3px;
+}
+
+#rates table td.title{
+	background-color: #d7e7f7;
+	font-weight: bold;
+	padding: 4px;
+	
+}
+
+#rates .highlight{
+	background-color: #d7e7f7;
+}
+
+
+#fees table{
+	width: 100%;
+	border: 2px solid #003366;
+	border-collapse: collapse;
+	text-align: left;
+	font-size: .9em;
+	margin-bottom: 20px;
+	
+}
+
+#fees table th{
+	background-color: #003366;
+	color: #fff;
+	padding: 10px;
+	text-transform: uppercase;
+	font-size: 1.3em;
+
+}
+#fees table td{
+	border: 2px solid #003366;
+	padding: 3px;
+}
+
+#fees table td.title{
+	background-color: #d7e7f7;
+	font-weight: bold;
+	padding: 4px;
+	
+}
+
+#fees .highlight{
+	background-color: #d7e7f7;
+}
+
+#fees td.indent{
+	padding-left: 35px;
+}
+
+#rates td.dark{
+	background-color: #003366;
+	color: #fff;
+	text-align: left;
+}
+
+
+.fieldWithErrors {
+  padding: 2px;
+  background-color: red;
+  display: table;
+}
+
+#errorExplanation {
+  width: 400px;
+  border: 2px solid red;
+  padding: 7px;
+  padding-bottom: 12px;
+  margin-bottom: 20px;
+  background-color: #f0f0f0;
+}
+
+#errorExplanation h2 {
+  text-align: left;
+  font-weight: bold;
+  padding: 5px 5px 5px 15px;
+  font-size: 12px;
+  margin: -7px;
+  background-color: #c00;
+  color: #fff;
+}
+
+#errorExplanation p {
+  color: #333;
+  margin-bottom: 0;
+  padding: 5px;
+}
+
+#errorExplanation ul li {
+  font-size: 12px;
+  list-style: square;
+}

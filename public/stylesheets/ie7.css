@@ -1,0 +1,16 @@
+ul#menu li a.toplevel {
+	width: 1%;
+}
+
+ul#menu li li:hover ul, ul#menu li li.sfhover ul {
+	left: -1px;
+	top: -1px;
+}
+
+.clearfix {
+	height: 1%;     /* triggers hasLayout */
+}
+
+#footer2 ul {
+	margin-top: -1px;
+}
